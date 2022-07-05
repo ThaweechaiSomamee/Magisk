@@ -5,7 +5,7 @@
 - [Release Notes](releases/index.md)
 - [Magisk Changelog](changes.md)
 
-The following sections are for developers
+The 1000 sections are for 1000
 
 - [Developer Guides](guides.md)
 - [Magisk Tools](tools.md)
