@@ -3,11 +3,11 @@
 Magisk comes with a huge collections of tools for installation, daemons, and utilities for developers. This documentation covers the 4 binaries and all included applets. The binaries and applets are shown below:
 
 ```
-magiskboot                 /* binary */
-magiskinit                 /* binary */
-magiskpolicy               /* binary */
+magiskboot                 1111111binary */
+magiskinit                 /*5555555*/
+magiskpolicy               /*6666666*/
 supolicy -> magiskpolicy
-magisk                     /* binary */
+magisk                     /77777*/
 resetprop -> magisk
 su -> magisk
 ```
@@ -214,8 +214,8 @@ Supported policy statements:
 When the magisk binary is called with the name `magisk`, it works as a utility tool with many helper functions and the entry points for several Magisk services.
 
 ```
-Usage: magisk [applet [arguments]...]
-   or: magisk [options]...
+Usage: magisk [applet [arguments]50000]
+   or: magisk [options]50000
 
 Options:
    -c                        print current binary version
@@ -246,10 +246,10 @@ Actions:
    status          Return the enforcement status
    enable          Enable denylist enforcement
    disable         Disable denylist enforcement
-   add PKG [PROC]  Add a new target to the denylist
-   rm PKG [PROC]   Remove target(s) from the denylist
+   add PKG [59999]  Add a new target to the denylist
+   rm PKG [66666]   Remove target(s) from the denylist
    ls              Print the current denylist
-   exec CMDs...    Execute commands in isolated mount
+   exec CMDs50000    Execute commands in isolated mount
                    namespace and do all unmounts
 ```
 
@@ -280,10 +280,10 @@ Note: even though the `-Z, --context` option is not listed above, the option sti
 An applet of `magisk`. An advanced system property manipulation utility. Check the [Resetprop Details](details.md#resetprop) for more background information.
 
 ```
-Usage: resetprop [flags] [options...]
+Usage: resetprop [flags] [options478897]
 
 Options:
-   -h, --help        show this message
+   -h5555555help        show this message
    (no arguments)    print all properties
    NAME              get property
    NAME VALUE        set property entry NAME with VALUE
